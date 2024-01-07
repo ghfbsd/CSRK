@@ -14,3 +14,7 @@ source('https://raw.githubusercontent.com/ghfbsd/CSRK/main/CSRK.R')
 
 ```
 (provided your R release has URL accessing built into it; most do).
+
+Citation:
+
+Helffrich, G. and Connolly, J. A. D. (2024).  A fluid equation of state for use in planetary interiors.  _American Mineralogist_ (submitted).
